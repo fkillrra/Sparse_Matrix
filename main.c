@@ -10,7 +10,7 @@ typedef struct _ELEMENT
 } Element;
 
 int n = 0;
-int result[1000][10000];
+int result[1000][1000];
 int flag = 0;
 
 FILE *output;
