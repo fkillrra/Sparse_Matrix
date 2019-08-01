@@ -6,7 +6,7 @@
 
 ---
 
-#### info function
+### info function
 
 ```c
 int count_nonzero(int arr[][n])
@@ -54,7 +54,7 @@ trans() 함수는 하나의 행렬을 받아 반복문을 통해 270도 회전�
 
 ---
 
-#### Process
+### Process
 
 ![1564687184618](https://user-images.githubusercontent.com/32171039/62323049-6106fd00-b4e1-11e9-8630-e20ed2c30a3d.png)
 
