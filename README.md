@@ -1,10 +1,8 @@
-# Sparse_Matrix
-First Edition
 # Sparse Matrix
 
 **Sparse Matrix** is a matrix in which most of the elements are zero.
 
-![1564570830710](C:\Users\fkill\AppData\Roaming\Typora\typora-user-images\1564570830710.png)
+![1564570830710](https://user-images.githubusercontent.com/32171039/62322993-4765b580-b4e1-11e9-93ab-a89ca54bbf30.png)
 
 ---
 
@@ -58,7 +56,7 @@ trans() 함수는 하나의 행렬을 받아 반복문을 통해 270도 회전�
 
 #### Process
 
-![1564687184618](C:\Users\fkill\AppData\Roaming\Typora\typora-user-images\1564687184618.png)
+![1564687184618](https://user-images.githubusercontent.com/32171039/62323049-6106fd00-b4e1-11e9-8630-e20ed2c30a3d.png)
 
 기본적으로 input 파일과 output 파일이 존재하는지 유무를 확인하고, 없다면 예외처리를 통해 프로그램이 정상적으로 동작할 수 있도록 했습니다.
 
