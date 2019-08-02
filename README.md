@@ -6,6 +6,11 @@
 
 ---
 
+### Usage
+./SparseMatrix hw1_input.txt hw1_output.txt
+
+---
+
 ### info function
 
 ```c
