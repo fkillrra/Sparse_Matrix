@@ -25,13 +25,13 @@ int main()
 {
     FILE *fp;
 
-    if((fp = fopen("/root/sparse_matrix/hw1_input.txt", "r")) == NULL)
+    if((fp = fopen(argv[1], "r")) == NULL)
     {
         printf("Failed Open hw1_input.txt\n");
         return 0;
     }
 
-    if((output = fopen("/root/sparse_matrix/hw1_output.txt", "w")) == NULL)
+    if((output = fopen(argv[2], "w")) == NULL)
     {
         printf("Failed Opne hw1_output.txt\n");
         return 0;
