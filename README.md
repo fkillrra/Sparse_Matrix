@@ -23,7 +23,7 @@ void compress(int SparseMatrix[][n], int row, int col, int cnt, Element CompMatr
 
 compress() 함수는 반환값이 존재하지 않는 함수로 희소 행렬임이 판단되었을 때 호출되어 재정렬한 뒤 hw1_output.txt 파일에 값을 쓰는 역할을 합니다.
 
-함수가 호출될 때 희소 행렬로 판단되는 행렬과 해당 행렬의 행(row), 열(col), 0이 아닌 수의 개수(cnt), 구조체 Element의 배열을 인자값으로 들어가게 되고, 반복문을 통해 재정렬 및 hw1_output.txt 파일에 재정렬된 값을 씁니다.
+함수가 호출될 때 희소 행렬로 판단되는 행렬과 해당 행렬의 행(row), 열(col), 0이 아닌 수의 개수(cnt), 구조체 Element 배열이 인자값으로 들어가게 되고, 반복문을 통해 재정렬 및 hw1_output.txt 파일에 재정렬된 값을 씁니다.
 
 
 
