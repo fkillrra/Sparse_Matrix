@@ -21,7 +21,7 @@ void add(int a[][n], int b[][n]);
 void multi(int a[][n], int b[][n]);
 void trans(int arr[][n]);
 
-int main()
+int main(int argc, char *argv[])
 {
     FILE *fp;
 
