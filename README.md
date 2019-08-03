@@ -8,8 +8,7 @@
 
 ### Usage
 > ./SparseMatrix hw1_input.txt hw1_output.txt
-
-OS : Ubuntu 18.04 
+> OS : Ubuntu 18.04 
 ---
 
 ### info function
